@@ -8,8 +8,18 @@ Filelist
 adaptors.txt
   Adaptors 
 
+d-link/
+  http://us.dlink.com/
+
+intel/
+  https://www.intel.com/
+
 links.txt
   Adaptor related links
 
 manifest
   Manifest for resync application
+
+netgear/
+  Netgear adapters
+  http://www.netgear.com/home/products/networking/
